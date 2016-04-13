@@ -1,0 +1,1 @@
+The source code is written by C++, and it could run successfully in Mac and Linux System. And the three outputs files are for the three strategies. Three source code files, three outputs files and one conclusion file are included.
